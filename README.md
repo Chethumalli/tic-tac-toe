@@ -29,6 +29,8 @@ Play the game live here:
 
 <img width="1913" height="897" alt="Screenshot 2026-02-03 222922" src="https://github.com/user-attachments/assets/4cd5e74a-6dd3-4a69-b9c1-f72b3527ed0e" />
 <img width="1888" height="875" alt="Screenshot 2026-02-03 222949" src="https://github.com/user-attachments/assets/1b19a326-0c99-43cc-9f9c-166297f1f93c" />
+<img width="1846" height="850" alt="Screenshot 2026-02-03 223031" src="https://github.com/user-attachments/assets/8e4b3abe-d2f2-489a-9ce3-287844c6adc6" />
+<img width="1893" height="871" alt="Screenshot 2026-02-03 223057" src="https://github.com/user-attachments/assets/5354aea8-ade3-44b7-9c8b-f42871029262" />
 
 
 ---

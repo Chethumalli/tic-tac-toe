@@ -55,3 +55,39 @@ Open the game:
 
 # In browser
 open index.html
+
+🤝 How to Play
+
+Open the game in your browser
+
+Two players take turns placing X and O
+
+Get three in a row (horizontal, vertical, diagonal) to win
+
+Click “Restart” to play again
+
+🧠 Want to Improve It?
+
+Here are some ideas you can add:
+
+✔ Single-player mode vs AI
+✔ Score tracker
+✔ Animations & sound effects
+✔ Theme switch (light / dark mode)
+
+🧑‍💻 Contributing
+
+Contributions are welcome!
+
+Fork the repo
+
+Create a feature branch
+
+Commit changes
+
+Open a Pull Request
+
+📜 License
+
+This project is open-source under the MIT License — feel free to use & modify!
+(Specify your license hrere)

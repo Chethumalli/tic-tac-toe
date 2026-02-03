@@ -45,3 +45,13 @@ Clone the project:
 
 ```bash
 git clone https://github.com/Chethumalli/tic-tac-toe.git
+
+Go to project folder:
+
+cd tic-tac-toe
+
+
+Open the game:
+
+# In browser
+open index.html

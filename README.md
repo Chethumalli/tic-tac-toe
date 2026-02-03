@@ -27,8 +27,9 @@ Play the game live here:
 
 ## 🗂️ Screenshots
 
-!<img width="1913" height="897" alt="Screenshot 2026-02-03 222922" src="https://github.com/user-attachments/assets/4cd5e74a-6dd3-4a69-b9c1-f72b3527ed0e" />
-](https://raw.githubusercontent.com/Chethumalli/tic-tac-toe/main/game.png)
+<img width="1913" height="897" alt="Screenshot 2026-02-03 222922" src="https://github.com/user-attachments/assets/4cd5e74a-6dd3-4a69-b9c1-f72b3527ed0e" />
+<img width="1888" height="875" alt="Screenshot 2026-02-03 222949" src="https://github.com/user-attachments/assets/1b19a326-0c99-43cc-9f9c-166297f1f93c" />
+
 
 ---
 
